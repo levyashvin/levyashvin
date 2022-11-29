@@ -43,10 +43,6 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
  <p>
-    <img align="left" alt="levyashvin's streak" src="https://streak-stats.demolab.com?user=levyashvin&theme=monokai-metallian&hide_border=true&sideNums=89DDFF&currStreakNum=BC9BF7&ring=9FCF6A" width="46%"/>
-    <img align="right" alt="levyashvin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=levyashvin&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=bb9af7&text_color=8adeff" width="46%"/>
+    <img align="center" alt="levyashvin's streak" src="https://streak-stats.demolab.com?user=levyashvin&theme=monokai-metallian&hide_border=true&sideNums=89DDFF&currStreakNum=BC9BF7&ring=9FCF6A" width="46%"/>
+    <img align="center" alt="levyashvin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=levyashvin&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=bb9af7&text_color=8adeff" width="46%"/>
 </p>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<img alt="levyashvin's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=levyashvin&bg_color=1F222E&color=F85D7F&line=89ddff&point=bb9af7&hide_border=true" />

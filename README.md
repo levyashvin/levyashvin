@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **levyashvin/levyashvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  
+  ![snake gif](https://github.com/levyashvin/levyashvin/blob/output/github-snake-dark.svg)
+</div>
